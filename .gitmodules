@@ -1,0 +1,6 @@
+[submodule "flamestarters-artwork"]
+	path = flamestarters-artwork
+	url = https://github.com/trashpirate/flamestarters-artwork.git
+[submodule "flamestarters-smart-contracts"]
+	path = flamestarters-smart-contracts
+	url = https://github.com/trashpirate/flamestarters-smart-contracts.git
