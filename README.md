@@ -47,7 +47,7 @@ A collection of 177 unique AI-generated and human-curated pieces designed to ign
 Code is divided into three submodules:
 
 **[Artwork](https://github.com/trashpirate/flamestarters-artwork):**
-Code to generate the NFT collection for upload on IPFS
+Code to generate the NFT collection for upload on IPFS; Artwork by [@CreativeCuse](https://twitter.com/CreativeCuse)
 
 **[Smart Contracts](https://github.com/trashpirate/flamestarters-smart-contracts):**
 Code to test and deploy the NFT smart contracts based on ERC721A standard
@@ -105,7 +105,7 @@ Nadina Oates - [@N0_crypto](https://twitter.com/N0_crypto)
 
 Main Repository: [https://github.com/trashpirate/flamestarters](https://github.com/trashpirate/flamestarters)
 
-Project Link: [""]()
+Project Link: ["https://flamestarters.buyholdearn.com"](https://flamestarters.buyholdearn.com/)
 
 
 <!-- ACKNOWLEDGMENTS -->
